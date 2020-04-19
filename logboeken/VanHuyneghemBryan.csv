@@ -1,0 +1,14 @@
+Datum,Start,Einde,Plaats,Omschrijving,Opmerkingen
+07/03/20,13:30,16:30,Extern,Exploring the data,
+18/03/20,13:30,20:30,Extern,Exploring and analyzing the data,
+19/03/20,20:30,23:50,Extern,Learn about Data Cleaning and NLP,
+20/03/20,13:00,23:59,Extern,Data Cleaning + EDA + SVM (with & without rbf kernel) + RandomForest,
+21/03/20,00:00,02:40,Extern,Running supervised algos & writing documentation+explanation in notebook,
+21/03/20,11:00,19:10,Extern,Running supervised algos & writing documentation+explanation in notebook,Data cleaning & lemmatization script
+21/03/20,19:30,23:59,Extern,Running supervised algos & writing documentation+explanation in notebook,Data cleaning & lemmatization
+22/03/20,00:01,00:40,Extern,Running supervised algos & writing documentation+explanation in notebook,Data cleaning & lemmatization
+23/03/20,11:30,13:00,Extern,information + writing + documentation,
+23/03/20,13:20,18:40,Extern,introduction + writing + documentation,
+25/03/20,14:00,23:55,Extern,information + writing + documentation + runs RF with additional columns,
+17/04/20,10:30,20:25,Extern,information + writing + documentation + Word2Vec research,
+18/04/20,12:30,23:00,Extern,information + writing + Word2Vec,
