@@ -3,16 +3,19 @@
 
 ## Sprint 2
 
-* Word2Vec ipv Bag of Words
-* Elbow method, Silhouette method
-* Clustering algos (Kmeans, DBScan, KMedoids)
+* Elbow method, Silhouette method in hoofdbestand een beetje beschrijven
+* Clustering algos (Kmeans, DBScan, KMedoids, LDA)
 * t-SNE?
-* Tags van Doc2Vec?
-* ROC
+* Links naar notebooks sprint 1 fixen
+
 
 ## Sprint 3
 
-* Links naar notebooks sprint 1 fixen
-* NN
 * NLPEasy: https://pypi.org/project/nlpeasy/
 * BERT: https://github.com/google-research/bert
+
+
+## eindpresentatie (vragen of we dit nog moeten doen?)
+
+* Bij sprint 1: ROC, confusion matrices en precision beter analyseren
+* (Meer hyperparameter tuning: tja...)
