@@ -7,6 +7,7 @@
 * Clustering algos implenteren (Kmeans, DBScan, KMedoids, LDA)
 * Clustering algos beschrijven in hoofdbestand (Kmeans, DBScan, KMedoids, LDA)
 * t-SNE?
+* Normalisatie van data (zie labo clustering)
 * Links naar notebooks sprint 1 fixen
 
 
