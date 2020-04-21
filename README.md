@@ -6,7 +6,9 @@
 * Elbow method, Silhouette method beschrijven in hoofdbestand 
 * Clustering algos implenteren (Kmeans, DBScan, KMedoids, LDA)
 * Clustering algos beschrijven in hoofdbestand (Kmeans, DBScan, KMedoids, LDA)
-* t-SNE?
+
+Nice to have:
+* t-SNE
 * Normalisatie van data (zie labo clustering)
 * Links naar notebooks sprint 1 fixen
 
