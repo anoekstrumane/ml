@@ -3,8 +3,9 @@
 
 ## Sprint 2
 
-* Elbow method, Silhouette method in hoofdbestand een beetje beschrijven
-* Clustering algos (Kmeans, DBScan, KMedoids, LDA)
+* Elbow method, Silhouette method beschrijven in hoofdbestand 
+* Clustering algos implenteren (Kmeans, DBScan, KMedoids, LDA)
+* Clustering algos beschrijven in hoofdbestand (Kmeans, DBScan, KMedoids, LDA)
 * t-SNE?
 * Links naar notebooks sprint 1 fixen
 
