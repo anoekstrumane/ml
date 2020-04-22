@@ -3,20 +3,13 @@
 
 ## Sprint 2
 
-* Elbow method, Silhouette method beschrijven in hoofdbestand 
-* Clustering algos implementeren (Kmeans, DBScan, KMedoids, LDA)
-* Clustering algos beschrijven in hoofdbestand (Kmeans, DBScan, KMedoids, LDA)
-
-Nice to have:
-* t-SNE
-* Normalisatie van data (zie labo clustering)
-* Links naar notebooks sprint 1 fixen
-
+* relevante woorden per topic (LDA)
 
 ## Sprint 3
 
 * NLPEasy: https://pypi.org/project/nlpeasy/
 * BERT: https://github.com/google-research/bert
+* labeling topics LDA
 
 
 ## eindpresentatie (vragen of we dit nog moeten doen?)
