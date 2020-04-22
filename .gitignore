@@ -38,3 +38,4 @@ runs_Sprint1/runs_RF/rf_runs_with_issue/rbc_notebooks/corpus_cleaned_twice.pkl
 runs_Sprint1/runs_RF/rf_runs_with_issue/lemmatizers/corpus_lemmatized_cleaned_twice.csv
 runs_Sprint1/runs_RF/rf_runs_with_issue/lemmatizers/corpus_lemmatized_cleaned_once.csv
 model_doc2vec_balanced_20epochs
+model_doc2vec_imbalanced_20epochs.docvecs.vectors_docs.npy
