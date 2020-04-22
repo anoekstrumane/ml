@@ -3,9 +3,6 @@
 
 ## Sprint 2
 
-* Elbow method, Silhouette method beschrijven in hoofdbestand 
-* Clustering algos implementeren (Kmeans, DBScan, KMedoids, LDA)
-* Clustering algos beschrijven in hoofdbestand (Kmeans, DBScan, KMedoids, LDA)
 
 Nice to have:
 * t-SNE
