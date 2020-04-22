@@ -39,3 +39,10 @@ runs_Sprint1/runs_RF/rf_runs_with_issue/lemmatizers/corpus_lemmatized_cleaned_tw
 runs_Sprint1/runs_RF/rf_runs_with_issue/lemmatizers/corpus_lemmatized_cleaned_once.csv
 model_doc2vec_balanced_20epochs
 model_doc2vec_imbalanced_20epochs.docvecs.vectors_docs.npy
+corpus_cleaned_and_stemmed_for_LDA.csv
+corpus_cleaned_for_LDA.csv
+corpus_sprint2_LDA_ready_bag_of_words.csv
+corpus_sprint2_pc_50_LDA.csv
+corpus_sprint2_pc_15_LDA.csv
+corpus_sprint2_pc_100_LDA.csv
+corpus_sprint2_pc_30_LDA.csv
