@@ -6,6 +6,7 @@
 
 * LDA: relevante woorden per topic -> LDA runnen zonder dim reduction en Dictionary maken van BOW
 * labeling topics LDA + visualiseren
+* LDA aan supervised learning algo geven
 * Bij sprint 1: ROC, confusion matrices en precision beter analyseren
 * Meer hyperparameter tuning
 
