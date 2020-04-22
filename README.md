@@ -12,6 +12,7 @@ Nice to have:
 
 * NLPEasy: https://pypi.org/project/nlpeasy/
 * BERT: https://github.com/google-research/bert
+* labeling topics LDA
 
 
 ## eindpresentatie (vragen of we dit nog moeten doen?)
