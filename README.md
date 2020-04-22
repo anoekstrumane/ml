@@ -3,10 +3,7 @@
 
 ## Sprint 2
 
-
-Nice to have:
-* t-SNE
-* Normalisatie van data (zie labo clustering)
+* relevante woorden per topic (LDA)
 
 ## Sprint 3
 
