@@ -7,8 +7,6 @@
 Nice to have:
 * t-SNE
 * Normalisatie van data (zie labo clustering)
-* Links naar notebooks sprint 1 fixen
-
 
 ## Sprint 3
 
