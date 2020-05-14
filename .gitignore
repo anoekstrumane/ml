@@ -47,3 +47,9 @@ corpus_sprint2_pc_15_LDA.csv
 corpus_sprint2_pc_100_LDA.csv
 corpus_sprint2_pc_30_LDA.csv
 Latent_Dirichlet_Allocation_LDA_for_Topic_Modeling.pdf
+corpus_sprint3_balanced_cp.csv
+corpus_sprint3_balanced_cps.csv
+corpus_sprint3_balanced_cpsi.csv
+corpus_sprint3_imbalanced_cp.csv
+corpus_sprint3_imbalanced_cps.csv
+corpus_sprint3_imbalanced_cpsi.csv
