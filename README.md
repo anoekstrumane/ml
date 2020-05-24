@@ -10,6 +10,7 @@
 Sprint 1 stuff
 * Bij sprint 1: ROC, confusion matrices en precision beter analyseren
 * Meer hyperparameter tuning
+* rename rbc_notebook -> rbc_notebook_sprint1    ---> fix links hiernaar in hoofdnotebook
 -------------------------------------------
 
 * LDA aan supervised learning algo geven?
