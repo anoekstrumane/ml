@@ -21,6 +21,7 @@ Sprint 1 stuff
 * word clouds
 * complaints per categorie eruit halen
 * other
+* een imbalanced run?
 
 BERT
 * BERT paper: https://github.com/google-research/bert
