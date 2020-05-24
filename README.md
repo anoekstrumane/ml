@@ -17,7 +17,7 @@ Sprint 1 stuff
 
 * installs vermelden in hoofdnotebook
 * links naar notebooks van LDA fixen bij sprint 2/LDA in ml_project notebook
-* meer cleaning nodig? (&, bedrijven (eventueel voor tokenization de bedrijven eruit proberen halen?))
+* meer cleaning nodig? ('&', '!', bedrijven (eventueel voor tokenization de bedrijven eruit proberen halen?))
 * word clouds
 * complaints per categorie eruit halen
 * other
