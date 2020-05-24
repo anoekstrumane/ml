@@ -12,16 +12,12 @@ Sprint 1 stuff
 * Meer hyperparameter tuning
 * rename rbc_notebook -> rbc_notebook_sprint1    ---> fix links hiernaar in hoofdnotebook (en andere?)
 -------------------------------------------
-* v2: visualisatie + updaten van # documents & # unique tokens ---> beter?
-* v3: een imbalanced run?
-* word clouds
-* complaints per categorie eruit halen
-* other
+* v2: is het beter dan v1? + visualisatie + word clouds + complaints per categorie eruit halen + other?
+* v3: een imbalanced run + visualisatie + word clouds + complaints per categorie eruit halen + other?
 
 * uitleg in hoofdnotebook
 * installs vermelden in hoofdnotebook
-* links naar notebooks van LDA fixen bij sprint 2/LDA in ml_project notebook
-* LDA aan supervised learning algo geven?
+* links naar notebooks van LDA fixen bij sprint 2/LDA in ml_project notebook en sprint 3
 
 BERT
 * BERT paper: https://github.com/google-research/bert
