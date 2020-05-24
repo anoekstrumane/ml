@@ -2,6 +2,8 @@
 
 # Todo:
 
+* links naar notebooks van LDA fixen bij sprint 2/LDA in ml_project notebook
+
 ## Sprint 3
 
 * KMeans beter maken + umap & t-sne
