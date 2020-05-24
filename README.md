@@ -12,8 +12,7 @@ Sprint 1 stuff
 * Meer hyperparameter tuning
 * rename rbc_notebook -> rbc_notebook_sprint1    ---> fix links hiernaar in hoofdnotebook (en andere?)
 -------------------------------------------
-
-* v2: meer cleaning nodig? ('&', '!', bedrijven (eventueel voor tokenization de bedrijven eruit proberen halen?)) + naar topics 40
+* v2: visualisatie + updaten van # documents & # unique tokens ---> beter?
 * v3: een imbalanced run?
 * word clouds
 * complaints per categorie eruit halen
