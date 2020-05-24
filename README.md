@@ -16,6 +16,7 @@ Sprint 1 stuff
 * v3: een imbalanced run + visualisatie + word clouds + complaints per categorie eruit halen + other?
 
 * uitleg in hoofdnotebook
+* uitleg perplexity en coherence
 * installs vermelden in hoofdnotebook
 * links naar notebooks van LDA fixen bij sprint 2/LDA in ml_project notebook en sprint 3
 
