@@ -2,7 +2,13 @@
 
 # Todo:
 
+* installs vermelden in hoofdnotebook
 * links naar notebooks van LDA fixen bij sprint 2/LDA in ml_project notebook
+* wrapper bug fixen
+* word clouds
+* complaints per categorie eruit halen
+* other
+
 
 ## Sprint 3
 
