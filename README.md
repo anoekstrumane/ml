@@ -13,15 +13,16 @@ Sprint 1 stuff
 * rename rbc_notebook -> rbc_notebook_sprint1    ---> fix links hiernaar in hoofdnotebook (en andere?)
 -------------------------------------------
 
-* LDA aan supervised learning algo geven?
-
-* installs vermelden in hoofdnotebook
-* links naar notebooks van LDA fixen bij sprint 2/LDA in ml_project notebook
-* meer cleaning nodig? ('&', '!', bedrijven (eventueel voor tokenization de bedrijven eruit proberen halen?))
+* v2: meer cleaning nodig? ('&', '!', bedrijven (eventueel voor tokenization de bedrijven eruit proberen halen?)) + naar topics 40
+* v3: een imbalanced run?
 * word clouds
 * complaints per categorie eruit halen
 * other
-* een imbalanced run?
+
+* uitleg in hoofdnotebook
+* installs vermelden in hoofdnotebook
+* links naar notebooks van LDA fixen bij sprint 2/LDA in ml_project notebook
+* LDA aan supervised learning algo geven?
 
 BERT
 * BERT paper: https://github.com/google-research/bert
