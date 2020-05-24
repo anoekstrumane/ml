@@ -13,7 +13,7 @@ Sprint 1 stuff
 * rename rbc_notebook -> rbc_notebook_sprint1    ---> fix links hiernaar in hoofdnotebook (en andere?)
 -------------------------------------------
 * v2: is het beter dan v1? + visualisatie + word clouds + complaints per categorie eruit halen + other?
-* v3: een imbalanced run + visualisatie + word clouds + complaints per categorie eruit halen + other?
+* v3: een imbalanced run (rbc_notebook_sprint3 1.2.2->LDA_v3) + visualisatie + word clouds + complaints per categorie eruit halen + other?
 
 * uitleg in hoofdnotebook
 * uitleg perplexity en coherence
