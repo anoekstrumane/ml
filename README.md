@@ -15,10 +15,6 @@ Sprint 1 stuff
 
 * v3: een imbalanced run (rbc_notebook_sprint3 1.2.2->LDA_v3) ; copy van notebook 2
 
-* uitleg in hoofdnotebook
-* uitleg perplexity en coherence
-* uitleg visualisaties
-* installs vermelden in hoofdnotebook
 * links naar notebooks van LDA fixen bij sprint 2/LDA in ml_project notebook en sprint 3
 
 BERT
