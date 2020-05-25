@@ -10,7 +10,7 @@
 -------------------------------------------
 
 * v3: een imbalanced run (in progress)
-* vgl v1/v2/v3 + coherence score value definition (stack overflow)
+* vgl v1/v2/v3 + coherence score value definition (stack overflow: https://stackoverflow.com/questions/54762690/coherence-score-0-4-is-good-or-bad)
 
 BERT
 * BERT paper: https://github.com/google-research/bert
