@@ -10,15 +10,9 @@
 Sprint 1 stuff
 * Bij sprint 1: ROC, confusion matrices en precision beter analyseren
 * Meer hyperparameter tuning
-* rename rbc_notebook -> rbc_notebook_sprint1    ---> fix links hiernaar in hoofdnotebook (en andere?)
 -------------------------------------------
-* v2: is het beter dan v1? + visualisatie + word clouds + complaints per categorie eruit halen + other?
-* v3: een imbalanced run (rbc_notebook_sprint3 1.2.2->LDA_v3) + visualisatie + word clouds + complaints per categorie eruit halen + other?
 
-* uitleg in hoofdnotebook
-* uitleg perplexity en coherence
-* installs vermelden in hoofdnotebook
-* links naar notebooks van LDA fixen bij sprint 2/LDA in ml_project notebook en sprint 3
+* v3: een imbalanced run
 
 BERT
 * BERT paper: https://github.com/google-research/bert
