@@ -4,9 +4,6 @@
 
 ## Sprint 3
 
-* KMeans beter maken + umap & t-sne
-* Betere visualisatie + complaints bekijken die in cluster zitten
-
 -------------------------------------------
 
 BERT
