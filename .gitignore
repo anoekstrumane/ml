@@ -59,3 +59,7 @@ runs_Sprint3/LDA/corpus_sprint3_cleaned_and_stemmed_v2.csv
 runs_Sprint3/LDA/corpus_sprint3_cleaned_and_stemmed_v3.csv
 runs_Sprint3/LDA/corpus_sprint3_LDA_v3_22topics_dominant_topic.csv
 corpus_sprint3_cleaned_and_stemmed_v2.csv
+consumer_complaint_bert_fully_cleaned.csv
+consumer_complaint_bert_nearly_fully_cleaned.csv
+consumer_complaint_bert_partially_cleaned.csv
+names.txt
